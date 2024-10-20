@@ -66,13 +66,13 @@ nav a.active{
     border-bottom: 3px solid #b74b4b;
 }
 
-@media(max-width:995px){
+@media(max-width:767px){
     nav{
         position: absolute;
         display: none;
         top: 0;
         right: 0;
-        width: 40%;
+        width: 80%;
         border-left: 3px solid #b74b4b;
         border-bottom: 3px solid #b74b4b;
         border-bottom-left-radius: 2rem;
