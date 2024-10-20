@@ -66,13 +66,13 @@ nav a.active{
     border-bottom: 3px solid #b74b4b;
 }
 
-@media(max-width:767px){
+@media(max-width:995px){
     nav{
         position: absolute;
         display: none;
         top: 0;
         right: 0;
-        width: 80%;
+        width: 40%;
         border-left: 3px solid #b74b4b;
         border-bottom: 3px solid #b74b4b;
         border-bottom-left-radius: 2rem;
@@ -214,9 +214,6 @@ span{
     }
     21%, 40%{
         content: "Programmer";
-    }
-    41%, 60%{
-        content: "Web Design";
     }
     61%, 80%{
         content: "Youtuber";
